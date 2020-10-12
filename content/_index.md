@@ -14,7 +14,7 @@ in 2005.
 
 {{< figure src="images/blackbelt.jpg" width="274" height="486" caption="*With Professor Dominick Brioché, after receiving my black belt*"  class="floatleft" >}} 
 
-Taking up martial arts was one of my best decisions in life.    It
+Taking up martial arts was one of my best decisions.    It
 has certainly helped me stay in good physical condition
 through the years, but that's only part of it.  To me,
 martial arts involves the mind, the body, and the spirit.  And as you study it, you develop qualities that spill

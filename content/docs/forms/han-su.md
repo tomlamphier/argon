@@ -9,7 +9,7 @@ bookToc: false
 ---
 ## Han Su Form
 Han Su is the longest form that I learned in Hapkido.  I'm
-going to break it up into 4 sections so that it doesn't 
+breaking it up into 4 sections so that it doesn't 
 seem overwhelming.
 
 ## Section 1
