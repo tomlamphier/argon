@@ -61,3 +61,99 @@ neck, R arm comes back to chamber near ear.
 Inside block L, R vertical punch.  
 
 8.  Mirror (1) to (7) on left side.  
+
+## Section 3
+
+1.  L hand over R like you are holding a grapefruit-sized ball. 1/2 turn R, switch hands. Forward step R, switch hands.
+
+2.  1/4 turn L, high block with L, vertical punch with R, Left foot slides in to cat stance.
+
+3.  Turn to R diagonal, chamber R, front kick R, place it down, double spear hand high and straight (like superman mode).
+
+4.  Hands do wide circle down, then come up together in front (palms up), 
+    then push out to the side. 
+    
+5.  Plum blossom R going down, L up, complete with L at your hip, R beside your head, leaning back to R.
+
+6.  Left does upward palm strike to chin, R straight punch.
+
+7.  Back elbow R.
+
+8.  1/2 turn R into L knife hand to neck, chambering R.
+
+9.  1/4 turn L, high block L, cobra strike R to face.
+
+10. L foot slides back, feet together, double palm strike to 
+floating ribs.
+
+11. Small circle with hands, R foot slides back, double knifehand strike to floating ribs.
+
+12. L hand grabs R wrist, 1/4 turn R into twist, small circle 
+with R hand, L foot steps forward and L knife hand strike.
+
+13. R hand grabs L wrist, L hand does small circle,
+L foot slides in to cat stance, R knife hand strike, R foot forward.
+
+14. R high block, L punch.
+
+15. R hand over L like you are holding a grapefruit, 1/2 turn to L, L step forward, switch hands. 
+
+16. 1/4 turn L, L high block + R punch.
+
+17. Chamber R, L front kick, land on L diagonal with high double spear hand.
+
+18. Large circle with hands going to sice, then down, then up the middle, palms up, then pushing to the sides.
+
+19. Plum blossom, L goes down, R up. R ends at hit, Left behind head. Lean back to L.
+
+20. R upward palm to chin, L punch.  
+
+21. Back elbow L.
+
+22. 1/2 turn L, R knife hand to neck, L to chamber.
+
+23. 1/4 turn R, L high block, R cobra strike to face.
+
+24. Double palm strike to floating ribs, L foot slides back.
+
+25. R foot slides back, hands do small circle, double knife hand to 
+floating ribs. 
+
+26. 1/4 twist R, R arm does wide scoop, L meets it at eye level.
+
+27. Step forward L, knife hand L.
+
+28. 1/4 twist L, L arm does wide scoop, R hand meets it at eye level.
+
+29. Step forward R, R knife hand.
+
+30. L foot closes together with R, R high block, L punch.     
+
+## Section 4
+
+1.  R foot back, R hand over L (like holding a ball).
+
+2.  1/4 turn R, swing R leg to back, reverse hands.
+
+3.  Step forward R, reverse hands.
+
+4.  Move L foot up to R, bring L arm across in front, R downward punch
+over arm, R down punch inside of arm, pull R hand back like you are 
+an arrow, step forward with L, R palm strike in front, kiup.
+
+5.  5/4 turn to R. R palm extends to side, L palm extends front.
+
+6. L foot slides in, L hand in low block, R protecting side of face. R
+foot slides in, R hand in low block, L protects face. L palm extends to side, R palm to front.
+
+7.  Arms cross in front.
+
+8.  Arms extend out again, palms facing out.
+
+9.  Fan block.
+
+10. L punch.
+
+11.  R horizontal spear hand.
+
+12.  Hands do circle, come together, bow.   

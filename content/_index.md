@@ -12,7 +12,7 @@ Dominick Briochê of the Kunite Ryu School of
 Survival, also in Brooklyn.  I began my martial arts journey
 in 2005. 
 
-{{< figure src="images/blackbelt.jpg" width="274" height="486" caption="*With Professor Dominick Brioché, after receiving my black belt*"  class="floatleft" >}} 
+{{< figure src="images/blackbelt.jpg#floatright" width="274" height="486" caption="*With Professor Dominick Brioché, after receiving my black belt*"  >}} 
 
 Taking up martial arts was one of my best decisions.    It
 has certainly helped me stay in good physical condition
