@@ -1,6 +1,6 @@
 ---
 title: "Tai Sabaki"
-weight: 10
+weight: 15
 # bookFlatSection: false
 bookToc: false
 # bookHidden: false

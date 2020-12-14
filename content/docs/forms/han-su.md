@@ -12,6 +12,10 @@ Han Su is the longest form that I learned in Hapkido.  I'm
 breaking it up into 4 sections so that it doesn't 
 seem overwhelming.
 
+Sabunim says that we should coordinate our breathing with
+the moves, alternating breathing in one move, then breathing out the next.  With
+the consious breating and slow movements, Han Su is like meditation.
+
 ## Section 1
 1.  From a relaxed feet-apart stance, bring R
 foot in, arms up in a large circle, palms together
@@ -34,11 +38,9 @@ into horse stance.
 7.  Turn from waist into front stance, R vertical fist, L hand
 supporting upper arm.
 
-8.  R horizontal spear hand, L goes under.
+8.  L horizontal spear hand, R goes under.
 
-9.  Repeat of (1).
-
-10. Mirror of steps (2) thru (8).  
+10. Mirror of steps (1) thru (8).  
 
 ## Section 2
 
@@ -64,11 +66,13 @@ Inside block L, R vertical punch.
 
 ## Section 3
 
-1.  L hand over R like you are holding a grapefruit-sized ball. 1/2 turn R, switch hands. Forward step R, switch hands.
+1.  L hand over R like you are holding a grapefruit-sized ball. 1/2 turn R, switch hands. 
+Forward step R.
 
-2.  1/4 turn L, high block with L, vertical punch with R, Left foot slides in to cat stance.
+2.  1/4 twist R, high block with R, vertical punch with L,
+, Left front kick.  
 
-3.  Turn to R diagonal, chamber R, front kick R, place it down, double spear hand high and straight (like superman mode).
+3.  Turn to R diagonal, double spear hand high and straight (like superman mode).
 
 4.  Hands do wide circle down, then come up together in front (palms up), 
     then push out to the side. 
@@ -96,11 +100,11 @@ L foot slides in to cat stance, R knife hand strike, R foot forward.
 
 14. R high block, L punch.
 
-15. R hand over L like you are holding a grapefruit, 1/2 turn to L, L step forward, switch hands. 
+15. R steps back, L hand over R, 1/2 turn R, step forward R.
 
-16. 1/4 turn L, L high block + R punch.
+16. 1/4 twist L, R punch, L high block. 
 
-17. Chamber R, L front kick, land on L diagonal with high double spear hand.
+17. Chamber R, R front kick, land on L diagonal with high double spear hand.
 
 18. Large circle with hands going to sice, then down, then up the middle, palms up, then pushing to the sides.
 
