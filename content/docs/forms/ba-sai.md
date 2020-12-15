@@ -29,7 +29,8 @@ block. Twist body to left when starting right back fist.
 6. Look right bringing left fist across right to form an X. Left
 high block plus right down block both done as right knee comes up.
 Chamber fists by your right ear, right outside hammer fist as you 
-put your knee down. Left punch, left back fist. 
+put your knee down. Left punch and right chamber, right punch and 
+left back fist. 
 
 7. Chamber both hands right, sink into horse stance.
 
@@ -44,12 +45,16 @@ knife hand block, right spear hand.  Right side kick, turning 180
 degrees into left knife hand block. Step forward right into 
 right knife hand block. 
 
-3. Bring right foot back, fists come up in front at chest level,
-chamber to either side, bring up overhead, down slightly.
-Right knee comes up, lunge forward into double palm to the ribs.
+3. Right foot slides back, closed hands chamber on either side.
+Fists come up the middle in an X block above head, break outwards.
+Right knee comes up, place knee down and make short hop to
+bring left in, double uppercut.  Left punch as right knee comes up, right in chamber.
+Place foot down in front, right punch, left to chamber. 
 
-4. Left straight punch as right knee comes up.  Place right down in
-front, right punch.  
+4. Turn head to look over left shoulder leaning back and
+raising left arm in a high block.  Shift left hand to guard face as you 
+turn 180, right groin palm strike.  Left down block, pull right 
+hand up elbow at 90 degrees. Slide in left foot face to right.
+Inside crescent kick while turning 180 degrees to the left 
+ending in horse stance, right down block to the side.  
 
-5. Turn left 180, left foot steps out, left high block, 
-right palm strike to groin. 
