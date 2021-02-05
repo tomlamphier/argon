@@ -1,6 +1,6 @@
 ---
 title: "Teki Nidan"
-weight: 14
+weight: 70
 # bookFlatSection: false
 bookToc: false
 # bookHidden: false

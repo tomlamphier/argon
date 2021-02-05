@@ -1,6 +1,6 @@
 ---
 title: "Teki Shodan"
-weight: 12
+weight: 60
 # bookFlatSection: false
 bookToc: false
 # bookHidden: false

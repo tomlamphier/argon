@@ -1,6 +1,6 @@
 ---
 title: "Joong Bong"
-weight: 30
+weight: 150
 # bookFlatSection: false
 bookToc: false
 # bookHidden: false
