@@ -28,3 +28,6 @@ go straight into side kick.
 5.  Inside crescent kick off front leg, place it down, turning back hook kick with back leg,
 reverse osoto.  Those able: instead of reverse osoto, keep turning so you face back, drop
 with palms to the floor, working leg goes straight back, reverse sweep, then come up.
+
+6.  Inside crescent kick off the back leg, cross over in front 
+and place it down. Jump back kick with other leg. 

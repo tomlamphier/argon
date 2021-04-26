@@ -62,3 +62,65 @@ bookToc: false
 20. Left foot comes together, right steps out to the side,
     left arm comes up with elbow forward, fingers reaching
     behind. KIUP! 
+
+## Special Limited Space Version
+You have a square box the length and width of a front stance for this version of Sandon.
+A Youtube link of a demo by Shihan Jackson is https://m.facebook.com/groups/271294112994239?view=permalink&id=1641909489266021.
+Begin with heiso kiba dachi, kiba dacshi, hacji daschi, arns straight.
+
+1. Look left, step out with left foot into a back stance with a left inside block,
+   right to chamber.
+
+2. Right foot moves up next to left, right fist straight down punch from chamber. Switch left/right 2X.
+
+3. Move left foot across to left front corner, right foot moves to opposite
+ diagonal corner into back stance, right inside block.
+ Left to chamber.
+ 
+4. Left foot moves up next to right, left fist down, switch left/right 2X.
+
+5. 1/4 turn left, left foot goes to left front corner,
+left knife-hand block, back stance.
+
+6. Left foot moves back, right foot steps forward, right vertical
+spear hand, left under.
+
+7. Turn left to rear, right arm tucks into your back,
+right step forward, continue turn, left foot 
+steps forward, left down hammer fist.
+
+8. Left foot comes back, right steps forward, 
+right punch [KIUP].
+
+9. 1/2 left turn, fists come into chamber on either side.
+
+10. Right inside crescent kick, hands at waist, right elbow
+does a strike as you land.
+
+11. Right back fist.
+
+12. Bring right foot back, left inside crescent
+kick, land with left elbow strike.
+
+13. Left back fist.
+
+14. Bring left foot back, right inside crescent
+kick, right elbow strike.
+
+15. Right back fist.
+
+16. Right foot moves to back corner, right knife hand
+block.
+
+17. Right foot moves back, left forward, left punch.
+
+18. Right foot moves up parallel to left, right, left
+punch [KIUP]. 
+
+19. Right foot moves to other side of back line, 
+right arm comes up into a forward elbow as you do 1/2 turn left 
+into a horse stance.
+
+20. Left arm comes up into a forward elbow,
+right to chamber, [KIUP].
+ 

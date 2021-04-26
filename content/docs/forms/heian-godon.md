@@ -57,3 +57,18 @@ bookToc: false
 19. Turn left, arms change places.
 
 20. Repeat grab etc. on left side. KIUP!
+
+## Special Limited Space Version
+
+When you are doing this form in a small space, the upper body movements
+remain the same, but some of the footwork changes.
+
+Steps 1 thru 7 have the same footwork. For 8, you bring your right
+foot back so that you can move forward on your left. For 9 you shift left
+back to allow right to step forward.
+
+For 10, you bring the right foot back, again to make room
+for the left to move.  12 has you bring your left back so
+that you can do an inside crescent kick with your right. 
+
+Steps 13 thru 20 have the same footwork as the regular version.

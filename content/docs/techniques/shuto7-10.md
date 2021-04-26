@@ -1,5 +1,5 @@
 ---
-title: "Shutos 7 and 8"
+title: "Shutos 7 - 10"
 weight: 8
 # bookFlatSection: false
 bookToc: false
@@ -29,4 +29,40 @@ lock.
 
 4.  Grab both shoulders, pull towards you and down to a knee strike.
 
-5.  Ko Soto.  Finish.  
+5.  Ko Soto.  Finish.
+
+### Shuto 9
+Attempted choke.
+
+1.  Double strke to biceps.
+
+2.  Clear up middle, step to outside, arm break.
+
+3.  Right shuto to groin.
+
+4.  Left shuto to groin.
+
+5.  Clear, left hand goes behind neck, right eagle claw 
+to front of neck.  
+
+6.  Double palm strike to turn head.
+
+7.  Right thumb eye gouge.
+
+8.  Right hand goes under chin, left over head,
+turn head, throw over your right thigh.
+
+### Shuto 10
+Attack is same side shoulder grab from behind.
+
+1.  Trap hand with left.
+
+2.  Right back fist to groin.
+
+3.  Bring roght elbow over attacker's arm, sink.
+
+4.  Right shuto high block.
+
+5.  Left punch to middle.
+
+6.  Off balance to back, sacrifice throw, uki waza.   
