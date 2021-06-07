@@ -8,7 +8,7 @@ bookToc: false
 # bookComments: true
 ---
 ## Teki Shodan
-Initial stance is legs shoulder width apart, hands closed at sides. 
+Initial stance is legs shoulder width apart, hands closed in front. 
 
 1.  Look R, L foot crosses in front, L open hand over R in front of groin.  
 
@@ -42,3 +42,42 @@ Initial stance is legs shoulder width apart, hands closed at sides.
 
 11.  Look L, R foot cross in front, R hand over L. Back to 
      original ready position.  
+     
+## Teki Shodan, Version 2 from Video
+
+Start with feet shoulder width apart, hands closed in front.
+
+1.  Right foot comes in, feet parallel. Bring habds up in front,
+left over right. 
+
+2.  Look right as you cross left foot over in front, extend hands so that 
+your arms make an X. Land in horse stance,
+right ridge hand to the side, palm up.
+
+3.  Left elbow strike, keeping feet facing forward.
+
+4.  Chamber both hands right and sharp look left. Left down block,
+right hook.
+
+5.  Right foot crosses over in front, left fist comes out in a guard, left foot makes 
+contact with the back of your right knee, right 
+inside block, left foot steps out into horse stance.
+
+6.  Left straight punch, right comes in for support. Right
+hand goes out in grab while left readies near your left ear. 
+Pull right in while doing left back hand. 
+
+7.  Turn left, avoid sweep of left leg, left hammer fist to side.
+
+8.  Turn right, avoid sweep of right leg, right side hammer fist.
+
+9.  Chamber both fists right, look left, double punch left.
+[kiup]
+
+10. Left hand comes back, opens flat nder right arm. Left knife hand
+and right cross elbow. 
+
+11. Chamber left, look right. Mirror 4-9 above.  
+
+12. Look left, left hand over right, right leg crosses, left
+leg comes in, return to ready stance.   

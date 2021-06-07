@@ -45,7 +45,7 @@ Left elbow comes up in a block, Step forward left,
 right outside hammer fist to temple, step forward right, right inside hammer fist 
 to groin, 1/4 turn to the left, arm break with right palm up, left down.
 
-7. Look left, left knife hand block, crouch in left knife 
+7. Look left, left ridge hand strike, crouch in left knife 
 hand strike to the ribs. 3/4 turn to the right, sweeping with right
 leg. Grab shoulders, right knee strike, right down elbow. 
 
@@ -53,4 +53,23 @@ leg. Grab shoulders, right knee strike, right down elbow.
 Clear with both hands, reach out with left palm up, cross with right
 palm up, left again, right in downward strike.
 
-9. Right side fall.    
+9. Right side fall.  Left leg comes up and goes over to right side, kick forward.
+Right leg comes up and over to left side, trap leg with right, left 
+kick forward.
+
+10. Back roll, back kick with left.
+
+11. Front roll come up on left knee, right foot planted in front. Right 
+high block, left punch.
+
+12. Sweep right leg to left, then right, then axe kick in front.
+
+13. Back roll coming up to standing. Double clear in front with hands.
+
+14. Hands come in, out again, down, right eagle claw, left near the shoulder.
+
+15. Left knife hand out at shoulder level, dip low in a scoop, 1/2- turn 
+left, break with right palm down, left up.
+
+16.   
+   
