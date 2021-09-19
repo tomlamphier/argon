@@ -9,8 +9,8 @@ bookToc: false
 ---
 ## Joong Bong 
 Joong Bong is a short stick weapons form.  You do the form three times: once in place, once going forward,
-and once going backward.  When you are going forward or backward, each
-count has two moves.
+and once going backward.  Each count has two moves. When you are first learning it,
+you do one move per count standing in place.
 
 The forward stepping is:
   - move forward foot
