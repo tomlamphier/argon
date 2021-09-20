@@ -47,4 +47,6 @@ circle in front. Trap wrist, apply nikio.
 bring the elbow of your other hand over the top to apply a nikio.
 
 10. Two-hand grab on one wrist in front.  Trap attacker's wrist, slide in, do downward elbow
-against solar plexus with your captive arm.  Finish with (1).   
+against solar plexus with your captive arm.  Finish with (1).
+
+   
