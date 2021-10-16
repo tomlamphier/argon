@@ -21,6 +21,10 @@ to your fingertips.
 2.  The position of your elbow at the end of (1) and others
 is forward the shoulder level, ready to strike.
 
+3.  A few of the releases like (12) have the same move
+on both sides. You can do them at the same time or one after the other.
+The latter is preferred to confuse the attacker.
+
 The Techniques
 
 1.  Cross hand grab.  Slide in with elbow tucked, making 
@@ -64,7 +68,7 @@ the attacker to lean head forward.
 12. Double same side grab.  11 X 2.
 
 13. Double same side grab.  Turn both hands outside, hook thumbs 
-in back of attacker's wrists, push towards attacker and outward and step in to lock.
+in back of attacker's wrists, push towards attacker and mainly outward and step in to lock.
 
 14. Double same side grab.  Begin like 13, slide diagonally in direction of your lead foot.
 Reach under arm and lock fingers backward.

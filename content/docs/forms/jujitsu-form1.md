@@ -53,11 +53,12 @@ leg. Grab shoulders, right knee strike, right down elbow.
 Clear with both hands, reach out with left palm up, cross with right
 palm up, left again, right in downward strike.
 
-9. Right side fall.  Left leg comes up and goes over to right side, kick forward.
-Right leg comes up and over to left side, trap leg with right, left 
-kick forward.
+9. Right side fall, right foot extended to stop attacker from advancing.  
+Swing left leg over in a block, follow with leg trap with right foot
+positioned behind. Roll to left side and do leg trap. 
 
-10. Back roll, back kick with left.
+10. Back roll with right leg extended striking upward, finish
+with left back kick.
 
 11. Front roll come up on left knee, right foot planted in front. Right 
 high block, left punch.
@@ -66,10 +67,24 @@ high block, left punch.
 
 13. Back roll coming up to standing. Double clear in front with hands.
 
-14. Hands come in, out again, down, right eagle claw, left near the shoulder.
+14. Hands come in, out again, down, right eagle claw, left knife
+ hand strile to neck.
 
-15. Left knife hand out at shoulder level, dip low in a scoop, 1/2- turn 
-left, break with right palm down, left up.
+15. 1/2 turn to left, scoop low with left arm into an arm break. Right
+palm down, left up.  
 
-16.   
+16. Right knife hand to groin. Left ridge hand to groin. Hight hackeru
+to back of neck, followed by raking face with fingers. Right hackeru to
+front of neck.
    
+17. Soft block to left, left palm strike to side of head.
+
+18. Grab shoulders with both hands, left front knee, side knee, right
+hop knee grabbing attacker's head (right hand below chin, left behind head).
+1/4 turn left, bringing head down to waist level.
+
+19. 1/2 turn back to forward direction with throw.
+
+20. Pull right hand back raking face with fingers. Right closes into a fist
+and goes high and behind. Be sure right arm is straight back at the shoulder and 
+elbow is slightly more than 90 degrees. 
