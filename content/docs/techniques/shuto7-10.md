@@ -27,29 +27,27 @@ lock.
 
 3.  Right shuto to neck.
 
-4.  Grab both shoulders, pull towards you and down to a knee strike.
+4.  Turn to right with left shuto to neck. 
 
-5.  Ko Soto.  Finish.
+5.  Reverse O Soto.  Finish.
 
 ### Shuto 9
-Attempted choke.
+Cross-hand grab.
 
-1.  Double strke to biceps.
+1.  Small circle with held wrist into arm break.
 
-2.  Clear up middle, step to outside, arm break.
+2.  Right shuto to groin.
 
-3.  Right shuto to groin.
+3.  Left shuto to groin.
 
-4.  Left shuto to groin.
-
-5.  Clear, left hand goes behind neck, right eagle claw 
+4.  Clear, left hand goes behind neck, right eagle claw 
 to front of neck.  
 
-6.  Double palm strike to turn head.
+5.  Double palm strike to turn head.
 
-7.  Right thumb eye gouge.
+6.  Right thumb eye gouge.
 
-8.  Right hand goes under chin, left over head,
+7.  Right hand goes under chin, left over head,
 turn head, throw over your right thigh.
 
 ### Shuto 10
