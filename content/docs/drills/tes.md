@@ -43,7 +43,8 @@ Bring foot back in, do back fist.
 4.  Chamber both hands on side of last strike, do
 inside to outside block, followed by back elbow and 
 side uppercut. Supporting hand goes back to chamber
-when the uppercut is done.
+when the uppercut is done...
+
 
 5.  Step forward left, right punch. Do iron man on
 left side. Reach out and grab with lead hand, down shuto 
