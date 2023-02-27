@@ -1,6 +1,6 @@
 ---
 title: "Ten Sho"
-weight: 1
+weight:  250
 # bookFlatSection: false
 bookToc: false
 # bookHidden: false

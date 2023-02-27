@@ -8,7 +8,7 @@ bookToc: false
 # bookComments: true
 ---
 ## Ba Sai
-1. Bring arms up at your sides parallel to the ground palms down.  Step out left and tilt to that side,
+1. Bring arms up by at your sides parallel to the ground palms down.  Step out left and tilt to that side,
 tilt the other way and bring right foot in on toe. Hands come together in front in "sun and moon" clasp, which is open left around 
 closed right. Arms straight.
 
