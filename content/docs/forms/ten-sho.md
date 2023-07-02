@@ -51,4 +51,19 @@ elbows immediately. Bring palms in towards your chest.
 Exhale. Move hands straight down, forming a triangle.
 Repeat 10 a total of three times.
 
-11.  
+11.  Fold your arms in front so that left hand is
+on the right side with palm forward and right forearm
+is straight up, palm facing the rear. Left is in front of right at the elbow. ``Do these movements 
+simultaneously:
+
+-  Step back right into hourglass stance.
+-  Circle right arm inward all the way around (360 degrees) and turn palm forward.
+-  Circle left arm outward and bring it to chamber with palm forward.
+
+12.  Extend both hands in front with a double "push".
+
+13.  Repeat 11 & 12 on other side.
+
+14.  Fold right fist into left hand, position it at groin level,
+bring front foot in.  Quickly chamber both fists at your sides, turning toes out.
+Turn heels out, fists go down in front. 
