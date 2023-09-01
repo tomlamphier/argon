@@ -82,3 +82,5 @@ right knife hand. Repeat on left side with kiup.
 
 20. Arms bo back to your left side as left foot comes in. Slow right knife hand.
 Slide right foot back, sun & moon, fists back to ready stance.
+
+xxx
