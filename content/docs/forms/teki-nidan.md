@@ -12,8 +12,9 @@ Ready stance is feet shoulder width apart, hands closed in front.
 
 1.  Look R, L foot cross in front, bring fists up close to 
 your body, fists together at shoulder level about 3 inches 
-apart, elbows out (emphasized as a double strike). High 
-blocking step out R, inside block R with L open hand at your R forearm. 
+apart, elbows out (emphasized as a double strike). 
+Bring forearms together while standing on left leg, cross right leg over front
+in iron wall stance. Step out right with double fist to the side. 
 Note: top of R fist faces out. Also, your fists travel on a level (not going up, then down).
 
 2. Step in front L, low (groin) side hammer fist R to inside (bottom 
@@ -23,8 +24,9 @@ of fist), L supporting.
 supporting at forearm.
 
 4. L foot comes in. Bring fists up the center, together at 
-neck level, elbows out as in (1).  Turn L, high step with L, L inside block,
-R supporting. 
+neck level, elbows out as in (1).  Bring forearms together
+while you are standing on the right leg, left leg across body in iron wall,
+Double fist strike to left as you land, bottom of left fist facing out.
 
 5. Step in front R, low side hammer fist L to inside (bottom) 
 R supporting. 
@@ -44,5 +46,6 @@ Wide clearing circle with L,low R hook.
 
 10. R foot crosses in front, L guard punch, R supporting. L foot steps out, R outside block.
   
-11. L fist cross in front, draw back to ear, L outside block, kiup. 
+11. L fist cross in front, draw back to ear, L outside block, (kiup). 
 
+12. Heisoku dachi.

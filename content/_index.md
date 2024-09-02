@@ -5,7 +5,7 @@ bookTOC: false
 ---
 ## Martial Arts Notebook
 My name is Tom Lamphier.  I'm a first degree black
-belt in Hapkido and a Purple belt in Kumite Ryu Jujitsu.
+belt in Hapkido and a Brown belt in Kumite Ryu Jujitsu.
 My two teachers are Sabunim David Herbert of the World Martial Arts Center 
 in Brooklyn, NY and Professor
 Dominick Briochê of the Kunite Ryu School of 
