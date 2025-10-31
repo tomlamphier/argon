@@ -1,5 +1,5 @@
 ---
-title: "Sipsu"
+title: "Sip Soo"
 weight: 80
 # bookFlatSection: false
 bookToc: false
@@ -7,7 +7,7 @@ bookToc: false
 # bookCollapseSection: false
 # bookComments: true
 ---
-## Sip Su
+## Sip Soo
 Imagine a straight line pointing directly ahead. You 
 travel along this line as you go forward and back. The 
 ready stance is feet together, hands in a "sun and moon"

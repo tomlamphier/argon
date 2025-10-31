@@ -4,16 +4,15 @@ type: docs
 bookTOC: false
 ---
 ## Martial Arts Notebook
-## Notebook Being Revised - Expected Completion November, 2024
 My name is Tom Lamphier.  I'm a first degree black
-belt in Hapkido and a Brown belt in Kumite Ryu Jujitsu.
-My two teachers are Sabunim David Herbert of the World Martial Arts Center 
-in Brooklyn, NY and Professor
+belt in Hapkido (2012) and also first degree black belt in Kumite Ryu Jujitsu (2025).
+My two teachers are Sabumnim David Herbert of the World Martial Arts Center 
+in Brooklyn, NY and Chief Professor
 Dominick Briochê of the Kunite Ryu School of 
 Survival, also in Brooklyn.  I began my martial arts journey
 in 2005. 
 
-{{< figure src="images/blackbelt.jpg" width="274" height="486" class="floatright" caption="*With Professor Dominick Brioché, after receiving my black belt*"  >}} 
+{{< figure src="images/krjblackbelt.jpg" caption="*With Chief Professor Dominick Brioché, after receiving my KRJ black belt*"  >}} 
 
 Taking up martial arts was one of my best decisions.    It
 has certainly helped me stay in good physical condition
