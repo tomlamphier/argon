@@ -4,7 +4,10 @@ name: Deploy Hugo site to Pages
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["master"]
+  n:
+      shell: bash
+
+  jobs:  branches: ["master"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -23,10 +26,7 @@ concurrency:
 
 # Default to bash
 defaults:
-  run:
-    shell: bash
-
-jobs:
+  ru
   # Build job
   build:
     runs-on: ubuntu-latest
