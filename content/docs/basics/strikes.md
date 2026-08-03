@@ -36,7 +36,6 @@ The closed hand strikes are done with a tight fist. The wrist should be straight
 | knife hand | Wrist straight & fingers together, striking surface is outside edge of hand. |
 | ridge hand | Wrist straight & fingers together, striking surface is inside (thumb) edge of hand. |
 | slap | Wrist straight & fingers together, striking surface is inside surface. |
-| slap | Wrist straight & fingers together, striking surface is inside surface. |
 
 ### Other Types 
 | Strike | Description |
