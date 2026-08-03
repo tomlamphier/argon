@@ -1,6 +1,6 @@
 ---
-title: "White Belt Blocking Forms 1 - 4"
-weight: 95
+title: "White Belt Blocking 1 - 4"
+weight: 13
 # bookFlatSection: false
 bookToc: false
 # bookHidden: false

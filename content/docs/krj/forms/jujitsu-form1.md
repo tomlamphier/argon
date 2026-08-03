@@ -1,6 +1,6 @@
 ---
 title: "Jujitsu Form 1"
-weight: 170
+weight: 73
 # bookFlatSection: false
 bookToc: false
 # bookHidden: false

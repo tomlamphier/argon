@@ -1,6 +1,6 @@
 ---
 title: "Advanced 4-Wall Block"
-weight: 58
+weight: 12
 # bookFlatSection: false
 bookToc: false
 # bookHidden: false
