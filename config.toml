@@ -1,4 +1,4 @@
-baseURL = "https://www.tlnotebook.com"
+baseURL = 'https://tomlamphier.github.io/'
 languageCode = "en-us"
 title = "Martial Arts"
 theme = "book"
@@ -11,14 +11,14 @@ order = [".jpg$", ".gif$"]
 
 [[deployment.targets]]
 # An arbitrary name for this target.
-name = "mydeployment"
+# name = "mydeployment"
 # The Go Cloud Development Kit URL to deploy to. Examples:
 # GCS; see https://gocloud.dev/howto/blob/#gcs
 # URL = "gs://<Bucket Name>"
 
 # S3; see https://gocloud.dev/howto/blob/#s3
 # For S3-compatible endpoints, see https://gocloud.dev/howto/blob/#s3-compatible
-URL = "s3://tlnotebook.com?region=us-east-1"
+# URL = "s3://tlnotebook.com?region=us-east-1"
 
 # Azure Blob Storage; see https://gocloud.dev/howto/blob/#azure
 # URL = "azblob://$web"
@@ -27,7 +27,7 @@ URL = "s3://tlnotebook.com?region=us-east-1"
 # URL = "gs://<Bucket Name>?prefix=a/subfolder/"
 
 # If you are using a CloudFront CDN, deploy will invalidate the cache as needed.
-cloudFrontDistributionID = "EU0KLW5T3IR8W"
+# cloudFrontDistributionID = "EU0KLW5T3IR8W"
 
 # Optionally, you can include or exclude specific files.
 # See https://godoc.org/github.com/gobwas/glob#Glob for the glob pattern syntax.
